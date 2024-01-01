@@ -50,7 +50,7 @@
     "tar": "^6.2.0",
     "telegraph-node": "^1.0.4",
     "ts-node": "^10.9.1",
-    "typescript": "^5.2.2",
+    "typescript": "^5.3.3",
     "unzipper": "^0.10.14",
     "uuid": "^9.0.1",
     "wget-improved": "^3.4.0",
